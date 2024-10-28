@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #EEEEEE;
+    color: #756AB6;
+    text-align: center;
+  }
+  
+  .titulo{
+    background-color: #AC87C5;
+    color: #EEEEEE;
+    padding: 15px;
+    width: 95%;
+    margin-bottom: 20px;
+  }
+  
+  #seccion{
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+    border: 2px solid #756AB6;
+  }
+  
+  .inputs{
+    margin: 15px 0;
+  }
+  
+  ul{
+    list-style-type: none;
+    padding: 0;
+  }
+  
